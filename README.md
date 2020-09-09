@@ -1,5 +1,5 @@
 # Electronic-Health-Records-Analysis-for-Sepsis
-MIMIC-III(Medical Information Mart for Intensive Care III) dataset and PIC(Paediatric Intensive Care) dataset Analysis for Sepsis Management.et
+MIMIC-III(Medical Information Mart for Intensive Care III) dataset and PIC(Paediatric Intensive Care) dataset Analysis for Sepsis Management.  
 
 MIMIC is a relational database containing tables of data relating to patients who stayed within the intensive care units at Beth Israel Deaconess Medical Center.  
 PIC (Pediatric Intensive Care) is a large pediatric-specific single-center bilingual database comprising information relating to children admitted to critical care units at a large children’s hospital in China.  

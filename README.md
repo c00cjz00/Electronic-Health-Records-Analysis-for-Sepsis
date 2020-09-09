@@ -6,6 +6,6 @@ PIC (Pediatric Intensive Care) is a large pediatric-specific single-center bilin
 
 The aim of the project is to identify sepsis and treat it using EHR records.
 
-MIMIC-III : Pollard, T. J. & Johnson, A. E. W. The MIMIC-III Clinical Database http://dx.doi.org/10.13026/C2XW26 (2016).
-PIC dataset: Li, H., Zeng, X., & Yu, G. (2019). Paediatric Intensive Care database (version 1.0.0). PhysioNet. https://doi.org/10.13026/bcbd-4t11.
-Physionet: Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+**MIMIC-III:** Pollard, T. J. & Johnson, A. E. W. The MIMIC-III Clinical Database http://dx.doi.org/10.13026/C2XW26 (2016).
+**PIC dataset:** Li, H., Zeng, X., & Yu, G. (2019). Paediatric Intensive Care database (version 1.0.0). PhysioNet. https://doi.org/10.13026/bcbd-4t11.
+**Physionet:** Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
